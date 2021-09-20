@@ -9,3 +9,5 @@ If you click above link, you can learn how to :
 - Make a commit
 - Open a pull request
 - Merge pull request
+
+This line was written in `readme-edits` branch.
