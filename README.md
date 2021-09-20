@@ -1,7 +1,5 @@
 # hello-world
-created to learn how to use Github effectively 
-
-## hello-world
+created to learn how to use Github effectively
 
 https://guides.github.com/activities/hello-world/
 
